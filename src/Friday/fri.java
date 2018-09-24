@@ -6,6 +6,10 @@ public class fri {
 		String m="Second Change";
 		int b1 =4;
 	System.out.println (b.indexOf("F", b1));
+	
+	
+	String x = m.concat(b);
+	System.out.println(x);
 		
 		
 	}
